@@ -1,13 +1,17 @@
-This repository contains BackEnd code for the Chat Application, designed to facilitate real-time messaging and group chat functionalities.
+# Chat Application - BackEnd
 
-The FrontEnd was made with Angular and the BackEnd with .NET.
+This repository contains the BackEnd code for the Chat Application, designed to facilitate real-time messaging and group chat functionalities. The application leverages .NET for the backend and Angular for the frontend.
 
-Features
-User Registration and Login
-Send Messages and Files
-Friend Requests (Send, Accept, Delete)
-Create and Manage Chat Groups
-Real-time Communication using WebSockets
-Admin functionalities to manage users
+## Features
 
-Frontend: https://github.com/SzCsaba01/ChatApplication-FrontEnd
+- **User Registration and Login:** Secure user authentication and registration process.
+- **Send Messages and Files:** Users can send text messages and share files.
+- **Friend Requests:** Users can send, accept, and delete friend requests.
+- **Create and Manage Chat Groups:** Users can create and manage chat groups.
+- **Real-time Communication:** Utilizes WebSockets for real-time messaging.
+- **Admin Functionalities:** Admins can manage users and their activities.
+
+## Technologies Used
+
+- **Backend:** .NET
+- **Frontend:** Angular (repository: [ChatApplication-FrontEnd](https://github.com/SzCsaba01/ChatApplication-FrontEnd))

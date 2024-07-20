@@ -13,5 +13,5 @@ This repository contains the BackEnd code for the Chat Application, designed to 
 
 ## Technologies Used
 
-- **Backend:** .NET
+- **Backend:** .NET (repository: [ChatApplication-FrontEnd](https://github.com/SzCsaba01/ChatApplication-BackEnd))
 - **Frontend:** Angular (repository: [ChatApplication-FrontEnd](https://github.com/SzCsaba01/ChatApplication-FrontEnd))
